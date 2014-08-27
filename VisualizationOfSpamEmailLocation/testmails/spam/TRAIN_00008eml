@@ -1,0 +1,222 @@
+Delivered-To:rockexample123@gmail.com
+Received:by 10.112.40.203 with SMTP id z11csp254676lbk; Fri, 1 Aug 2014
+ 10:12:38 -0700 (PDT)
+X-Received:by 10.60.146.176 with SMTP id td16mr10250619oeb.28.1406913158283;
+ Fri, 01 Aug 2014 10:12:38 -0700 (PDT)
+Return-Path:<IDGConnect@idgconnect-resources.com>
+Received:from mail5.idgconnect-resources.com (mail5.idgconnect-resources.com.
+ [74.205.48.98]) by mx.google.com with ESMTP id
+ c3si23883014oej.105.2014.08.01.10.12.37 for <rockexample123@gmail.com>; Fri,
+ 01 Aug 2014 10:12:38 -0700 (PDT)
+Received-SPF:pass (google.com: domain of IDGConnect@idgconnect-resources.com
+ designates 74.205.48.98 as permitted sender) client-ip=74.205.48.98;
+Authentication-Results:mx.google.com; spf=pass (google.com: domain of
+ IDGConnect@idgconnect-resources.com designates 74.205.48.98 as permitted
+ sender) smtp.mail=IDGConnect@idgconnect-resources.com; dkim=fail
+ header.i=@idgconnect-resources.com
+DKIM-Signature:v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1;
+ d=idgconnect-resources.com;
+ h=From:To:Subject:Mime-Version:List-Unsubscribe:Content-Type:Message-ID:Date;
+ i=IDGConnect@idgconnect-resources.com; bh=p6cUbxyv0gR0wZUWzuQQcD7sNdo=;
+ b=UYtpdjMEEvSqxx0EoJrixL0Ex38G4odzdhQfWW4veOUaMt4vPrCdugKWv5JDqEK2f0THJ1DhB3Eo
+ oxpoadxLvIvnIG3B5gW+j65GVxKlB8bKuP0mBE++jRsvkeTqTiTU
+DomainKey-Signature:a=rsa-sha1; c=nofws; q=dns; s=key1;
+ d=idgconnect-resources.com;
+ b=HAZ73GPMqRfPgZN/pY39RK57SziBWtJNfmaxXzf56ORCHwmurH6k6KVSEWvgSKAV2SzSQpFHYvWB
+ Rh/agNcrNTWizPFP5gtXBu0NV1c96gJeUPx0dLhTPD9NvOSdkGKV;
+Received:by mail5.idgconnect-resources.com id hrf58q17ba0l for
+ <rockexample123@gmail.com>; Fri, 1 Aug 2014 04:33:34 -0400 (envelope-from
+ <IDGConnect@idgconnect-resources.com>)
+Return-Path:J364324-R274882@idgconnect-resources.com
+From:"IDG Connect "<IDGConnect@idgconnect-resources.com>
+To:<rockexample123@gmail.com>
+Subject:Tech & the Health Craze
+Mime-Version:1.0
+List-Unsubscribe:<mailto:oo-J364324-R274882@idgconnect-resources.com>
+Content-Type:multipart/alternative; boundary="---- Main boundary ----"
+Message-ID:<0.0.8.671.1CFAD63486EB57A.0@mail5.idgconnect-resources.com>
+Date:Fri, 1 Aug 2014 04:33:34 -0400
+SentDate:Fri Aug 01 01:33:34 PDT 2014
+Content:
+As the summer sunshine returns, so too does the obsession with ‘bikini bodies', counting daily steps, calorie tracking and no doubt, a sharp increase in gym memberships. And this health and fitness craze is getting increasingly 'techy' - 81% of people surveyed in India for example, are interested in buying a health/fitness app or wearable device.  And it's not just personal health gadgetry - tech is helping combat disease, help the visually impaired, and raise awareness all around the world.
+
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417040
+
+Global:
+
+InfoShot: The Global Health & Fitness Craze
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417063
+
+Social Communities: Male Breast Cancer Awareness
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417064
+
+"Force Illusions" Could Help the Visually Impaired
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417065
+
+Smart Homes Will Enhance Your Old Age
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417066
+
+Doctors to Suspend Trauma' Patients Then Revive Them Back to Life
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417067
+
+Smart Cities: What Will People Pay For?
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417068
+
+Can an Apple HealthKit Today Keep the Doctor Away?
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417069
+
+
+Regional:
+
+Sierra Leone: Going Digital with Birth Registration
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417070
+
+A Touch-Screen ‘Heart' Tablet in Cameroon
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417041
+
+Cambodia Uses Voice Tech to Reduce Infant Mortality
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417042
+
+Africa: Big Data and the Cancer "Tidal Wave"
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417043
+
+West Africa: Combatting Ebola Online and Offline
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417044
+
+
+
+Kind regards,
+IDG Connect
+
+
+P.S. If you have any regional insights you'd like to share, please email IDG Connect's editor, Kathryn Cave.
+mailto:Kathryn_cave@idg-connect.com
+
+
+
+Forward this mailer to a Friend/Colleague
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417046
+
+Find us on:
+Facebook
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417047
+Twitter
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417048
+LinkedIn
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417049
+RSS Feed
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417050
+
+--------------------------------------------------------------------------------
+If you do not wish to receive any further emails click here.
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417051
+--------------------------------------------------------------------------------
+Contact us if you need any assistance or additional information.
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417052
+
+IDG Connect's Privacy Policy Copyright © 2014. All rights reserved.
+http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&L=1417208
+
+IDG Connect, Staines One, Station Approach, Staines Middlesex, TW18 4LY, UK.
+www.idgconnect.com
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>IDG Connect Newsletter</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=utf-8"></HEAD>
+<BODY>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<TABLE cellSpacing=0 cellPadding=0 width=600 align=center border=0>
+<TBODY>
+<TR>
+<TD colSpan=16 height=20>&nbsp;</TD></TR>
+<TR>
+<TD colSpan=16 height=34><A href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417071"><IMG alt="IDG Connect Logo" src="http://www.idgconnect-resources.com/images/s45348/idgconnectlarge.jpg"></A></TD></TR>
+<TR>
+<TD colSpan=16 height=21>&nbsp;</TD></TR>
+<TR>
+<TD><IMG height=30 alt="Discover Worldwide Business Knowledge" src="http://www.idgconnect-resources.com/images/s45348/header.jpg" width=600></TD></TR>
+<TR>
+<TD height=10>&nbsp;</TD></TR>
+<TR>
+<TD height=10>&nbsp;</TD></TR>
+<TR>
+<TD><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>As the summer sunshine returns, so too does the obsession with 'bikini bodies', counting daily steps, calorie tracking and no doubt, a sharp increase in gym memberships. And this health and fitness craze is getting increasingly 'techy' - 81% of people surveyed in India for example, are</FONT><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=2><STRONG><A style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417038"> interested in buying a health/fitness app or wearable device. </A></STRONG></FONT><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>And it's not just personal health gadgetry - tech is helping combat disease, help the visually impaired, and raise awareness all around the world. </FONT></TD></TR>
+<TR>
+<TD height=10>&nbsp;</TD></TR>
+<TR>
+<TD height=10><STRONG><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=3>Global</FONT></STRONG><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=3><STRONG>:</STRONG></FONT></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417073"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>InfoShot: The Global Health &amp; Fitness Craze</B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417074"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Social Communities: Male Breast Cancer Awareness </B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417075"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>"Force Illusions" Could Help the Visually Impaired </B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417076"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Smart Homes Will Enhance Your Old Age</B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417077"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Doctors to Suspend Trauma' Patients Then Revive Them Back to Life</B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417078"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Smart Cities: What Will People Pay For? </B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417079"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Can an Apple HealthKit Today Keep the Doctor Away? </B></FONT></A></TD>
+<TD colSpan=16 height=10>&nbsp;</TD>
+<TR>
+<TD colSpan=16 height=10>&nbsp;</TD>
+<TR>
+<TD height=10>&nbsp;<FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=3><STRONG>Regional:</A></STRONG></FONT></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417080"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Sierra Leone: Going Digital with Birth Registration </B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417081"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>A Touch-Screen 'Heart' Tablet in Cameroon </B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417082"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Cambodia Uses Voice Tech to Reduce Infant Mortality </B></FONT></A></TD>
+<TD colSpan=16 height=10>&nbsp;</TD>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417083"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>Africa: Big Data and the Cancer "Tidal Wave" </B></FONT></A></TD></TR>
+<TR>
+<TD colSpan=16 height=30><IMG style="PADDING-RIGHT: 8px" height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14> <A style="COLOR: rgb(120,36,93); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417084"><FONT face="Arial, Helvetica, sans-serif" color=#78245d size=2><B>West Africa: Combatting Ebola Online and Offline </B></FONT></A></TD></TR>
+<TR>
+<TD width=613 colSpan=14>
+<P><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2><BR>Kind regards,<BR><BR>IDG Connect<BR><BR></FONT><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2><BR>P.S. If you have any regional insights you'd like to share, please email IDG Connect's editor, </FONT><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=2><STRONG><A style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="mailto:Kathryn_cave@idg-connect.com">Kathryn Cave. </A></STRONG></FONT></P>
+<P><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2><BR></FONT></P></TD></TR>
+<TR>
+<TD style="BORDER-BOTTOM: rgb(182,192,208) 1px solid">
+<TABLE width=600>
+<TBODY>
+<TR>
+<TD vAlign=top width=14><IMG height=11 alt="gry arrow" src="http://www.idgconnect-resources.com/images/s45348/gry-arrow.jpg" width=14></TD>
+<TD vAlign=top height=55><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=2><STRONG><A style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417086">Forward this mailer to a Friend/Colleague</A></STRONG></FONT></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD style="BORDER-BOTTOM: rgb(216,222,236) 1px solid" vAlign=center>
+<TABLE height=40 width=410>
+<TBODY>
+<TR>
+<TD width=70><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>Find us on:</FONT></TD>
+<TD width=20><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417087"><IMG height=16 alt=Facebook src="http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_R2_23.jpg" width=16 border=0></A></TD>
+<TD width=60><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417088"><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>Facebook</FONT></A></TD>
+<TD width=20><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417090"><IMG height=16 alt=Twitter src="http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_R2_25.jpg" width=16 border=0></A></TD>
+<TD width=45><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417091"><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>Twitter</FONT></A></TD>
+<TD width=20><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417092"><IMG height=16 alt=LinkedIn src="http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_R2_27.jpg" width=16 border=0></A></TD>
+<TD width=55><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417093"><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>LinkedIn</FONT></A></TD>
+<TD width=20><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417072"><IMG height=16 alt="RSS Feed" src="http://www.idgconnect-resources.com/images/s45348/IDG_newsletter_R2_29.jpg" width=16 border=0></A></TD>
+<TD width=60><A style="TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417056"><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=2>RSS Feed</FONT></A></TD></TR></TBODY></TABLE></TD></TR>
+<TR>
+<TD style="BORDER-BOTTOM: rgb(216,222,236) 1px solid" vAlign=center colSpan=14 height=30><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=2>If you do not wish to receive any further emails <STRONG><A title=unsubscribe style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417057">click here</A></STRONG></FONT></TD></TR>
+<TR>
+<TD style="BORDER-BOTTOM: rgb(216,222,236) 1px solid" vAlign=center colSpan=14 height=30><FONT face="Arial, Helvetica, sans-serif" color=#4a5978 size=2><STRONG><A title="Contact us" style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417058">Contact us</A></STRONG> if you need any assistance or additional information.</FONT></TD></TR>
+<TR>
+<TD colSpan=14 height=14>&nbsp;</TD></TR>
+<TR>
+<TD width=613 colSpan=4 height=15><IMG height=23 alt="IDG Connect" src="http://www.idgconnect-resources.com/images/s45348/idgconnectsmall.jpg" width=50></TD></TR>
+<TR>
+<TD width=613 colSpan=13 height=57><FONT face="Arial, Helvetica, sans-serif" color=#636976 size=1>IDG Connect's <A style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417059">Privacy Policy</A> Copyright © 2014. All rights reserved.<BR>IDG Connect, Staines One, Station Approach, Staines Middlesex, TW18 4LY, UK.<BR><STRONG><A style="COLOR: rgb(74,89,120); TEXT-DECORATION: none" href="http://www.idgconnect-resources.com/rt.asp?I=58F24X431C2X6&amp;L=1417060">www.idgconnect.com</A></STRONG></FONT></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><IMG height=1 src="http://pix04.revsci.net/G12356/b3/0/3/noscript.302?D=DM_LOC=http://www.idg.com/?rt_value=e_job%%CI_JobTitle%%&amp;DM_EOM=1&amp;C=G12356&amp;L=0&amp;tgt=http://pix04.revsci.net/G12356/b3/0/3/noscript.gif?D=DM_LOC=http://www.idg.com/?rt_value=e_job%%CI_JobTitle%%&amp;DM_EOM=1&amp;C=G12356&amp;L=0" width=1> <IMG height=1 src="http://pix04.revsci.net/G12356/b3/0/3/noscript.302?D=DM_LOC=http://www.idg.com/?rt_value=e_ind%%CI_Industry%%&amp;DM_EOM=1&amp;C=G12356&amp;L=0&amp;tgt=http://pix04.revsci.net/G12356/b3/0/3/noscript.gif?D=DM_LOC=http://www.idg.com/?rt_value=e_ind%%CI_Industry%%&amp;DM_EOM=1&amp;C=G12356&amp;L=0" width=1> <IMG height=1 src="http://pix04.revsci.net/G12356/b3/0/3/noscript.302?D=DM_LOC=http://www.idg.com/?rt_value=e_csz%%CI_Employees%%&amp;DM_EOM=1&amp;C=G12356&amp;L=0&amp;tgt=http://pix04.revsci.net/G12356/b3/0/3/noscript.gif?D=DM_LOC=http://www.idg.com/?rt_value=e_csz%%CI_Employees%%&amp;DM_EOM=1&amp;C=G12356&amp;L=0" width=1> </TBODY></BODY><img src="http://www.idgconnect-resources.com/ho.asp?I=58F24X431C2X6&L=1417089" width=1 height=3><img src="https://pixel.monitor1.returnpath.net/pixel.gif?r=4c86012ae22d44496acf724f38c064fd9b5e5697&s=274882&c=364324" width="1" height="1" /><img src="http://miq.idgconnect-resources.com/C332R99A.gif?cid=58F24X431C2X6&mid=100464" width="1" height="3"/><a href="http://www.idgconnect-resources.com/ts.asp?I=58F24X431C2X6"><img src="http://www.idgconnect-resources.com/images/spacer.gif" width="1" height="3" border="0"/></a></HTML>
+
+
+
+
